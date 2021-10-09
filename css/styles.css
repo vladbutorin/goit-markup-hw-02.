@@ -63,7 +63,7 @@ body {
   color: var(--accent-color);
 }
 
-.header-link .current {
+.header-nav .link.current {
   color: var(--accent-color);
 }
 
